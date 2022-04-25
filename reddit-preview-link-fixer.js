@@ -3,6 +3,7 @@
 // @description  will replace the reddit preview links with i.redd.it
 // @author       tweimann
 // @version      0.5
+// @updateURL    https://raw.githubusercontent.com/tweimann/tm-scripts/main/reddit-preview-link-fixer.js
 // @match        https://preview.redd.it/*
 // @grant        none
 // @license      GPL-3.0
