@@ -7,6 +7,7 @@
 // @source       https://raw.githubusercontent.com/tweimann/tm-scripts/main/reddit-preview-link-fixer.js
 // @downloadURL  https://raw.githubusercontent.com/tweimann/tm-scripts/main/reddit-preview-link-fixer.js
 // @updateURL    https://raw.githubusercontent.com/tweimann/tm-scripts/main/reddit-preview-link-fixer.js
+// @icon         https://www.google.com/s2/favicons?domain=reddit.com
 // @match        https://preview.redd.it/*
 // @grant        none
 // @license      GPL-3.0
