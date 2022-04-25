@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         reddit preview link fixer
 // @namespace    http://tampermonkey.net/
-// @version      0.5
+// @version      0.6
 // @description  will replace the reddit preview links with i.redd.it
 // @author       tweimann
 // @match        https://preview.redd.it/*
@@ -17,4 +17,5 @@
     var formattedLocation = currentLocation.replace('preview.redd.it/', 'i.redd.it/');
     var croppedLocation = formattedLocation.slice(0, formattedLocation.indexOf('?'));
     window.open(croppedLocation, '_self');
+    console.log('link fixed!')
 }());
