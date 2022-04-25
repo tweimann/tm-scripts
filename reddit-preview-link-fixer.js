@@ -17,4 +17,4 @@
     var formattedLocation = currentLocation.replace('preview.redd.it/', 'i.redd.it/');
     var croppedLocation = formattedLocation.slice(0, formattedLocation.indexOf('?'));
     window.open(croppedLocation, '_self');
-})();
+}());
