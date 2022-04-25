@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         reddit preview link fixer
 // @namespace    http://tampermonkey.net/
+// @version      0.5
 // @description  will replace the reddit preview links with i.redd.it
 // @author       tweimann
-// @version      0.5
-// @icon         https://www.google.com/s2/favicons?domain=reddit.com
 // @match        https://preview.redd.it/*
+// @icon         https://www.google.com/s2/favicons?domain=reddit.com
 // @grant        none
 // ==/UserScript==
 
